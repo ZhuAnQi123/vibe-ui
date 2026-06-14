@@ -17,7 +17,9 @@ description: 按触发词加载预设 UI 审美风格并输出可落地的设计
 
 | 风格 ID | 触发词 | 参考文件 | 适用场景 |
 |---|---|---|---|
+| copula-neo-brutalism | Copula、高饱和撞色、新粗野主义、先锋创意 | [references/copula-neo-brutalism.md](references/copula-neo-brutalism.md) | 创意机构 / 数字化工作室 / 潮流品牌 |
 | tiimo-organic-minimalism | Tiimo、有机极简、治愈系、低饱和、ADHD 友好 | [references/tiimo-organic-minimalism.md](references/tiimo-organic-minimalism.md) | 日程/专注/心理健康类 App |
+| units-playful-brutalism | Units、像素网格、大色块拼接、青春玩味、新粗野 | [references/units-playful-brutalism.md](references/units-playful-brutalism.md) | 青年社区 / 创意住宿 / 互动生活平台 |
 
 新增风格时：复制 [references/_template.md](references/_template.md)，填完后在本表加一行，并更新本 Skill 的 `description` 触发词。
 
