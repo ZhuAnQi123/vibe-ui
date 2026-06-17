@@ -1,6 +1,7 @@
 ---
 id: tiimo-organic-minimalism
 name: Tiimo Organic Minimalism
+name_zh: "Tiimo 有机治愈极简风"
 cover_image: "../assets/tiimoapp.webp"
 domain: ["Healthcare", "Productivity", "Mental Health"]
 aesthetic: ["Organic", "Soft Minimalism", "Pastel"]

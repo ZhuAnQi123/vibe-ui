@@ -3,6 +3,7 @@
 ## id: nvrmnd-editorial-neo-brutalism
 
 name: Neo-Brutalist Editorial
+name_zh: "NVRMND 编辑感新粗野主义"
 domain: ["创意设计", "数字工作室", "个人品牌", "出海独立开发者"]
 aesthetic: ["新粗野主义", "先锋杂志风", "像素波普", "极高对比度"]
 color_scheme: "Light"

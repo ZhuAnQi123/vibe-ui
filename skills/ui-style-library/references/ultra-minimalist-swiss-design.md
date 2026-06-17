@@ -1,6 +1,7 @@
 ---
 id: ultra-minimalist-swiss-design
 name: Ultra-Minimalist Swiss Design
+name_zh: "超极简瑞士设计体系"
 cover_image: "../assets/apracticeforeverydaylife.webp"
 domain: ["作品集", "建筑设计", "高端品牌", "编辑内容"]
 aesthetic: ["绝对极简", "Swiss design", "黑白灰", "网格排版"]

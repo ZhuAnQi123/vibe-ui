@@ -1,6 +1,7 @@
 ---
 id: copula-neo-brutalism
 name: Copula Agency Bold Neo-Brutalism
+name_zh: "Copula 高饱和新粗野主义"
 cover_image: "../assets/copula.webp"
 domain: ["Agency", "Portfolio", "Creative"]
 aesthetic: ["Neo-Brutalism", "High Contrast", "Bold"]

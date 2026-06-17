@@ -1,6 +1,7 @@
 ---
 id: terminal-ai-first-aesthetic
 name: Terminal AI-First Aesthetic
+name_zh: "终端优先 AI 工具风格"
 cover_image: "../assets/supabase.webp"
 domain: ["AI 工具", "开发者工具", "自动化平台", "代码产品"]
 aesthetic: ["极客终端风", "Dark mode first", "Monospace", "霓虹强调"]

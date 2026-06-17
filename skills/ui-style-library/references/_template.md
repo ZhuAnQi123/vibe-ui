@@ -1,6 +1,8 @@
 ---
 id: [如 tiimo-organic-minimalism]
 name: [风格官方名称]
+name_zh: "[中文展示标题，可选]"
+cover_image: "../assets/your-image-name.png"
 domain: ["行业标签1", "行业标签2"]
 aesthetic: ["风格标签1", "风格标签2"]
 color_scheme: "Light/Dark/Auto"

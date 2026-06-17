@@ -1,6 +1,7 @@
 ---
 id: neo-brutalism-core
 name: Neo-Brutalism Core
+name_zh: "新粗野主义核心体系"
 cover_image: "../assets/brutalistwebsites.webp"
 domain: ["创意产品", "作品集", "教育工具", "独立开发者"]
 aesthetic: ["新粗野主义", "粗黑描边", "硬阴影", "高饱和色块"]

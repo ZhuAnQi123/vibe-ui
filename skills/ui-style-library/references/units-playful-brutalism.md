@@ -1,6 +1,7 @@
 ---
 id: units-playful-brutalism
 name: Units Student Housing Playful Brutalism
+name_zh: "Units 趣味粗野主义"
 cover_image: "../assets/units.webp"
 domain: ["Real Estate", "Community", "Youth"]
 aesthetic: ["Neo-Brutalism", "Playful", "Grid"]
