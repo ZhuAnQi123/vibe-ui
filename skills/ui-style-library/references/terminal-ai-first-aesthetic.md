@@ -1,11 +1,11 @@
 ---
 id: terminal-ai-first-aesthetic
 name: Terminal AI-First Aesthetic
-cover_image: ""
+cover_image: "../assets/supabase.webp"
 domain: ["AI 工具", "开发者工具", "自动化平台", "代码产品"]
 aesthetic: ["极客终端风", "Dark mode first", "Monospace", "霓虹强调"]
 color_scheme: "Dark"
-website: "https://vercel.com/"
+website: "https://supabase.com/"
 description: >
   Terminal AI-First Aesthetic 是面向 AI 工具和开发者产品的深色界面风格。它借鉴代码编辑器、命令行和现代 DevTools 的视觉语言，用纯黑或深灰背景、等宽字体、高对比文本和少量霓虹强调色营造专业、精确、技术可信的氛围。触发词：developer-tools aesthetic, dark mode first, monospace typography, terminal inspired, neon glowing accents, high contrast
 ---

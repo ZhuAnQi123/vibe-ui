@@ -1,11 +1,11 @@
 ---
 id: organic-soft-minimalism
 name: Organic Soft Minimalism
-cover_image: ""
+cover_image: "../assets/readymag.webp"
 domain: ["健康生活", "习惯养成", "笔记工具", "情绪价值产品"]
 aesthetic: ["有机极简", "柔和 UI", "低饱和渐变", "治愈科技感"]
 color_scheme: "Light"
-website: "https://gumroad.com/"
+website: "https://readymag.com/examples"
 description: >
   Organic Soft Minimalism 用暖中性色、低饱和粉彩、超大圆角和柔和渐变建立平静、亲近、无压力的界面气质。它弱化硬朗边界与强对比，用温柔的留白、圆润容器和轻盈排版传达治愈、专注和可信赖的情绪。触发词：organic minimalism, soft UI, pastel gradients, warm neutral background, calm tech, rounded aesthetic
 ---

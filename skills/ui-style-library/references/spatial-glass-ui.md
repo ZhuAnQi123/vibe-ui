@@ -1,7 +1,7 @@
 ---
 id: spatial-glass-ui
 name: Spatial Glass UI
-cover_image: ""
+cover_image: "../assets/apple.webp"
 domain: ["AI 工具", "媒体应用", "沉浸式产品", "高级控制面板"]
 aesthetic: ["空间 UI", "玻璃态", "VisionOS style", "半透明层级"]
 color_scheme: "Dark"

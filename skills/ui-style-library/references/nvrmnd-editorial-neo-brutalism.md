@@ -6,6 +6,7 @@ name: Neo-Brutalist Editorial
 domain: ["创意设计", "数字工作室", "个人品牌", "出海独立开发者"]
 aesthetic: ["新粗野主义", "先锋杂志风", "像素波普", "极高对比度"]
 color_scheme: "Light"
+cover_image: "../assets/nvrmndstudio.webp"
 website: [https://www.nvrmndstudio.com/](https://www.nvrmndstudio.com/)
 description: >
 该风格融合了现代新粗野主义（Neo-Brutalism）的硬朗骨架与高端时尚杂志的排版肌理。通过极具张力的超大非衬线紧凑字体、粗重的线条分割，配合复古的低保真像素（Pixelated）交互元素和高饱和度的荧光绿/宝蓝色作为点缀，营造出一种既专业又带有些许叛逆、极具视觉冲击力的先锋数字艺术氛围。
