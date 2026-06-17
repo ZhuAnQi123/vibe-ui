@@ -1,17 +1,16 @@
 ---
-
-## id: nvrmnd-editorial-neo-brutalism
-
+id: nvrmnd-editorial-neo-brutalism
 name: Neo-Brutalist Editorial
 name_zh: "NVRMND 编辑感新粗野主义"
+cover_image: "../assets/nvrmndstudio.webp"
 domain: ["创意设计", "数字工作室", "个人品牌", "出海独立开发者"]
 aesthetic: ["新粗野主义", "先锋杂志风", "像素波普", "极高对比度"]
 color_scheme: "Light"
-cover_image: "../assets/nvrmndstudio.webp"
-website: [https://www.nvrmndstudio.com/](https://www.nvrmndstudio.com/)
+website: "https://www.nvrmndstudio.com/"
 description: >
-该风格融合了现代新粗野主义（Neo-Brutalism）的硬朗骨架与高端时尚杂志的排版肌理。通过极具张力的超大非衬线紧凑字体、粗重的线条分割，配合复古的低保真像素（Pixelated）交互元素和高饱和度的荧光绿/宝蓝色作为点缀，营造出一种既专业又带有些许叛逆、极具视觉冲击力的先锋数字艺术氛围。
-触发词: nvrmnd-editorial-neo-brutalism style, ultra-bold typography, neo-brutalist layouts, high contrast neon accents, pixelated interactive elements
+  该风格融合了现代新粗野主义（Neo-Brutalism）的硬朗骨架与高端时尚杂志的排版肌理。通过极具张力的超大非衬线紧凑字体、粗重线条分割，配合复古低保真像素（Pixelated）交互元素和高饱和荧光绿/宝蓝点缀，形成专业而叛逆、具有强烈视觉冲击力的先锋数字艺术氛围。
+  触发词：nvrmnd-editorial-neo-brutalism style, ultra-bold typography, neo-brutalist layouts, high contrast neon accents, pixelated interactive elements
+---
 
 # Neo-Brutalist Editorial UI 规范说明书
 
@@ -45,9 +44,8 @@ description: >
 
 ## 4. Typography (排版系统原则)
 
-- **展示字体 (Display)**：大标题必须拥有极致的视觉压迫感。使用超重字重、极致压缩的字距与行距。示例：`font-black text-6xl md:text-8xl uppercase tracking-tighter leading-[0.85] text-[#1A1A1A]`。
-- **功能交互字体 (Interactive)**：在导航菜单序号、标签、提交按钮等功能性节点上，使用像素风字体或等宽字体。示例：`font-mono font-bold tracking-widest`。
-- **正文字体 (Body)**：正文需要回归理性和极高可读性，采用无衬线中文字体或现代无衬线英文字体，保障视线流畅。示例：`font-normal text-base leading-relaxed text-[#333333]`。
+- **展示字体 (Display)**：大标题必须具备强视觉压迫感。使用超重字重和压缩字距行距，推荐：`font-black text-6xl md:text-8xl uppercase tracking-tighter leading-[0.85] text-[#1A1A1A]`。
+- **正文字体 (Body)**：正文强调理性与可读性，采用现代无衬线体系；功能标记（编号、按钮）可用 `font-mono font-bold tracking-widest` 增强机械感。
 
 ## 5. 基准组件示例 (Anchor Component)
 
@@ -101,12 +99,5 @@ description: >
 
 ## 8. Do's and Don'ts (设计禁忌)
 
-- **Do**：
-- 大胆使用全大写（UPPERCASE）英文标题。
-- 在页面边缘加入像素化（Pixelated）或者点阵（Dot-matrix）风格的巨型 LOGO 作为视觉底纹。
-- 保持边框和线条的纯黑高对比度。
-
-- **Don't**：
-- **绝对不要**使用任何带有渐变色（Gradient）的背景或按钮。
-- 不要使用柔和、带有模糊（Blur）的毛玻璃效果或弥散阴影。
-- 严禁在大标题上使用大字距（Tracking-wide），这会彻底破坏新粗野主义的紧凑感和压迫力。
+- **Do**：保持全大写标题、纯黑高对比线条与像素化功能元素三者并存，维持“编辑感 + 粗野感”的统一视觉语气。
+- **Don't**：避免使用渐变、毛玻璃和模糊阴影；同时不要给主标题使用 `tracking-wide`，否则会破坏紧凑压迫感。
