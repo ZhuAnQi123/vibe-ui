@@ -40,9 +40,22 @@ vibe-ui/
 
 我们非常欢迎你提交自己发现的小众风格和调优好的 prompt！
 
+### 1. 准备资产 (Assets)
+- 截取该风格的高质量预览图（推荐使用 WebP 或压缩过的 PNG 格式，尺寸建议 16:9 或 4:3）。
+- 将图片放入本仓库的 `skills/ui-style-library/assets/` 目录下。
+- **注意**：本仓库采用“随仓库存储”方案，Web 端在构建时会自动读取并展示这些本地图片。
+
+### 2. 创建规范文件
 1. 复制 `skills/ui-style-library/references/_template.md`。
 2. 按照 `[产品名]-[核心风格].md` 的规范重命名并放入 `references/`。
-3. 填写顶部的 YAML 元数据（`id`、`domain`、`aesthetic`、触发词等）。
+3. 填写顶部的 YAML 元数据，**必须包含 `cover_image` 字段**指向你刚才上传的图片：
+   ```yaml
+   id: copula-neo-brutalism
+   name: Copula Agency Bold Neo-Brutalism
+   cover_image: "../assets/copula-cover.png" # 必须填写相对路径
+   domain: ["Agency", "Portfolio", "Creative"]
+   aesthetic: ["Neo-Brutalism", "High Contrast", "Bold"]
+   ```
 4. 严格按照模板提供**具象化的 Tailwind 字典**、**色彩变量映射**和**基准组件示例**。
 5. 在 `SKILL.md` 的「风格索引」表中追加一行。
 6. 提交 Pull Request。

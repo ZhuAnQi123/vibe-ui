@@ -1,6 +1,7 @@
 ---
 id: modern-flat-micro-textures
 name: Modern Flat With Micro Textures
+cover_image: ""
 domain: ["消费产品", "移动应用", "品牌官网", "内容平台"]
 aesthetic: ["现代扁平", "微质感", "Grainy overlay", "几何清洁"]
 color_scheme: "Light"

@@ -1,6 +1,7 @@
 ---
 id: copula-neo-brutalism
 name: Copula Agency Bold Neo-Brutalism
+cover_image: ""
 domain: ["Agency", "Portfolio", "Creative"]
 aesthetic: ["Neo-Brutalism", "High Contrast", "Bold"]
 color_scheme: "Light"

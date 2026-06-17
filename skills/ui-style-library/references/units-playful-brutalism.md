@@ -1,6 +1,7 @@
 ---
 id: units-playful-brutalism
 name: Units Student Housing Playful Brutalism
+cover_image: ""
 domain: ["Real Estate", "Community", "Youth"]
 aesthetic: ["Neo-Brutalism", "Playful", "Grid"]
 color_scheme: "Light"

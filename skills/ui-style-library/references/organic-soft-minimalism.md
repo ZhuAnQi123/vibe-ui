@@ -1,6 +1,7 @@
 ---
 id: organic-soft-minimalism
 name: Organic Soft Minimalism
+cover_image: ""
 domain: ["健康生活", "习惯养成", "笔记工具", "情绪价值产品"]
 aesthetic: ["有机极简", "柔和 UI", "低饱和渐变", "治愈科技感"]
 color_scheme: "Light"

@@ -1,6 +1,7 @@
 ---
 id: terminal-ai-first-aesthetic
 name: Terminal AI-First Aesthetic
+cover_image: ""
 domain: ["AI 工具", "开发者工具", "自动化平台", "代码产品"]
 aesthetic: ["极客终端风", "Dark mode first", "Monospace", "霓虹强调"]
 color_scheme: "Dark"

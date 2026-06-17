@@ -1,6 +1,7 @@
 ---
 id: bento-grid-layout
 name: Bento Grid Layout
+cover_image: ""
 domain: ["SaaS", "产品展示", "仪表盘", "个人主页"]
 aesthetic: ["便当盒布局", "模块化网格", "Apple-like widgets", "整洁信息架构"]
 color_scheme: "Light"
