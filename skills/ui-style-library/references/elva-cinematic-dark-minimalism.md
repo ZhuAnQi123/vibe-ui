@@ -2,7 +2,7 @@
 id: elva-cinematic-dark-minimalism
 name: Elva Cinematic Dark Minimalism
 name_zh: "Elva 电影感暗黑微光风"
-cover_image: "../assets/elva-cover.png"
+cover_image: "../assets/elvalabs.webp"
 domain: ["AI 视频工具", "音视频剪辑", "摄影/摄像应用", "创意设计工具"]
 aesthetic:
   [

@@ -2,7 +2,7 @@
 id: smat-organic-grain-editorial
 name: SMAT Organic Grain Editorial
 name_zh: "SMAT 有机颗粒人文刊物风"
-cover_image: "../assets/smat-organic-grain-editorial.webp"
+cover_image: "../assets/smat.webp"
 domain: ["健康与公益", "心理戒断支持", "生活方式倡导", "人文艺术媒体"]
 aesthetic:
   [
